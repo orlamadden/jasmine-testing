@@ -1,7 +1,5 @@
-# Code Institute
+# Jasmine Testing
 
-Welcome USER_NAME,
+This repo contains content from the Jasmine testing module with Code Institue.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+It is a playground for me to practice.
